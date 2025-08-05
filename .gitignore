@@ -1,0 +1,7 @@
+# Dependency directory
+materials/
+web/
+stat/
+
+# Visual Studio code dir
+.vscode/
